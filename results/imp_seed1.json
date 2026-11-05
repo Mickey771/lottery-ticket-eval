@@ -1,0 +1,135 @@
+[
+ {
+  "round": 0,
+  "density": 1.0,
+  "ticket": 0.9777
+ },
+ {
+  "round": 1,
+  "density": 0.8003756574004508,
+  "ticket": 0.9739,
+  "reinit": 0.9778,
+  "random": 0.977,
+  "oneshot": 0.9739
+ },
+ {
+  "round": 2,
+  "density": 0.6406386175807663,
+  "ticket": 0.9786,
+  "reinit": 0.9747,
+  "random": 0.9769,
+  "oneshot": 0.9794
+ },
+ {
+  "round": 3,
+  "density": 0.5128136739293764,
+  "ticket": 0.979,
+  "reinit": 0.9777,
+  "random": 0.9767,
+  "oneshot": 0.9762
+ },
+ {
+  "round": 4,
+  "density": 0.4105259203606311,
+  "ticket": 0.9781,
+  "reinit": 0.977,
+  "random": 0.9773,
+  "oneshot": 0.9795
+ },
+ {
+  "round": 5,
+  "density": 0.3286626596543952,
+  "ticket": 0.9812,
+  "reinit": 0.9772,
+  "random": 0.9735,
+  "oneshot": 0.9799
+ },
+ {
+  "round": 6,
+  "density": 0.2631517655897821,
+  "ticket": 0.9792,
+  "reinit": 0.9758,
+  "random": 0.9753,
+  "oneshot": 0.981
+ },
+ {
+  "round": 7,
+  "density": 0.21072126220886553,
+  "ticket": 0.9798,
+  "reinit": 0.9773,
+  "random": 0.977,
+  "oneshot": 0.9817
+ },
+ {
+  "round": 8,
+  "density": 0.1687565740045079,
+  "ticket": 0.9807,
+  "reinit": 0.9755,
+  "random": 0.9704,
+  "oneshot": 0.9818
+ },
+ {
+  "round": 9,
+  "density": 0.13516528925619833,
+  "ticket": 0.9808,
+  "reinit": 0.9761,
+  "random": 0.9695,
+  "oneshot": 0.9811
+ },
+ {
+  "round": 10,
+  "density": 0.10827573253193087,
+  "ticket": 0.9804,
+  "reinit": 0.9741,
+  "random": 0.9692,
+  "oneshot": 0.9816
+ },
+ {
+  "round": 11,
+  "density": 0.08675056348610068,
+  "ticket": 0.9814,
+  "reinit": 0.9733,
+  "random": 0.9637,
+  "oneshot": 0.981
+ },
+ {
+  "round": 12,
+  "density": 0.06951915852742299,
+  "ticket": 0.9812,
+  "reinit": 0.9752,
+  "random": 0.961,
+  "oneshot": 0.9801
+ },
+ {
+  "round": 13,
+  "density": 0.05572501878287002,
+  "ticket": 0.9802,
+  "reinit": 0.9737,
+  "random": 0.9581,
+  "oneshot": 0.9785
+ },
+ {
+  "round": 14,
+  "density": 0.04467693463561232,
+  "ticket": 0.9808,
+  "reinit": 0.9728,
+  "random": 0.9514,
+  "oneshot": 0.9778
+ },
+ {
+  "round": 15,
+  "density": 0.035826446280991735,
+  "ticket": 0.9794,
+  "reinit": 0.9696,
+  "random": 0.9463,
+  "oneshot": 0.9742
+ },
+ {
+  "round": 16,
+  "density": 0.02873779113448535,
+  "ticket": 0.9792,
+  "reinit": 0.9677,
+  "random": 0.9425,
+  "oneshot": 0.9707
+ }
+]

@@ -1,0 +1,11 @@
+{
+  "pass": true,
+  "checks": {
+    "density": true,
+    "test_accuracy": true,
+    "time_limit": true
+  },
+  "density": 0.02873779113448535,
+  "test_acc": 0.979,
+  "search_seconds": 56
+}
